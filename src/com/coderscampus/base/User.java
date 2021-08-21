@@ -12,6 +12,7 @@ public class User {
         this.readAccess = true;
         this.writeAccess = false;
         this.superUser = false;
+        
     }
 
     public String getUsername() {
